@@ -1,0 +1,9 @@
+net_id,full_name,major,course_no,course_title,department,credits,term,grade
+aa123,Alice Anderson,CS,CS101,Intro to Computer Science,CS,3,FALL 2024,A
+aa123,Alice Anderson,CS,CS225,Data Structures,CS,3,SPRING 2025,A-
+bb234,Bob Brown,Math,MATH241,Calculus III,Math,3,Fall 2025,B+
+cc345,Cathy Chen,CS,CS101,Intro to Computer Science,CS,3,Fall 2025,C+
+cc345,Cathy Chen,CS,STAT400,Statistics and Probability,Statistics,4,Fall 2025,A
+dd456,David Davis,Economics,ECON102,Microeconomic Principles,Economics,3,Fall 2025,B
+ee567,Emma Evans,Math,CS225,Data Structures,CS,3,Fall 2025,B
+ee567,Emma Evans,Math,STAT400,Statistics and Probability,Statistics,4,Fall 2025,A-
